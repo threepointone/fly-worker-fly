@@ -1,0 +1,11 @@
+name = "fly-worker-fly"
+main = "src/index.ts"
+compatibility_date = "2024-08-21"
+
+# [[durable_objects.bindings]]
+# name = "PartyServer"
+# class_name = "PartyServer"
+
+# [[migrations]]
+# tag = "v1" # Should be unique for each entry
+# new_classes = ["PartyServer"]
